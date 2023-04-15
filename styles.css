@@ -1,0 +1,50 @@
+body {
+  background-color: #2b2b2b;
+  color: #f8f8f2;
+  font-family: Consolas, monospace;
+  font-size: 14px;
+  margin-left: 30px;
+}
+
+pre {
+  margin: 0px;
+}
+
+span {
+  display: inline-block;
+}
+
+span.keyword {
+  color: #306EF2;
+}
+
+span.operator {
+  color: #323DFC;
+  margin: 0 -5px;
+}
+
+span.separator {
+  color: #5F39E5;
+  margin: 0 -3px;
+}
+
+span.identifier {
+  color: #cccccc;
+}
+
+span.number {
+  color: #9532FC;
+}
+
+span.string {
+  color: #C430F2;
+  margin-right: -3px;
+}
+
+span.comment {
+  color: #30E4F2;
+}
+
+span.System {
+  color: #49F2A8;
+}
